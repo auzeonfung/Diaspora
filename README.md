@@ -1,7 +1,11 @@
-# Diaspora
-A WordPress theme
+#此项目暂时未开工
+#此项目暂时未开工
+#此项目暂时未开工
 
-[Preview Diaspora →](http://guo.lu)
+# Diaspora (OX Version)
+A WordPress theme modified from Diaspora which adapted to blog.ooxx.dk https://blog.ooxx.dk 
+
+[Preview Diaspora →](#) ⬅Not yet available
 
 ### 更新说明
 
@@ -15,9 +19,11 @@ issue：https://github.com/LoeiFy/Diaspora/issues/10
 
 ### 相关说明
 
-> 评论设置
+> 关于评论
 
-主题使用 多说 评论，需要设置多说用户名
+原作者主题使用 多说 评论，该修改版提供WordPress原版评论支持并默认使用。
+
+如果你想使用多说评论：
 
 `header.php` 第 45 行：
 
@@ -84,9 +90,13 @@ define ('USE_TIMTHUMB', FALSE);
 
 ### 捐赠
 
-如果你觉得这个主题不错，欢迎微信捐赠作者
+如果你觉得这个主题不错，欢迎微信捐赠原作者
 
 ![qr](https://cloud.githubusercontent.com/assets/2193211/15043958/e18cd400-1303-11e6-826f-e4495e210d11.jpg)
+
+如果你肯定我对此主题的一些微小贡献，也欢迎请我喝杯咖啡：
+
+**暂时还没准备好QR码**
 
 ### License
 MIT
